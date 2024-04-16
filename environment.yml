@@ -146,4 +146,3 @@ dependencies:
       - websocket-client==1.7.0
       - widgetsnbextension==4.0.10
       - zipp==3.18.1
-prefix: /home/trandangan/anaconda3/envs/DSI201
