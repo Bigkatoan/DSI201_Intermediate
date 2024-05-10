@@ -4,7 +4,7 @@ This repo need install anaconda to run
 
 Install environment
 ```
-conda create env -f environment.yml
+conda create env -f DSI201.yml
 ```
 Activate environment
 ```
