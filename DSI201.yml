@@ -151,4 +151,3 @@ dependencies:
       - widgetsnbextension==4.0.10
       - yarg==0.1.9
       - zipp==3.18.1
-prefix: /home/trandangan/anaconda3/envs/DSI201
